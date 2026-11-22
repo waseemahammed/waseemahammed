@@ -2,12 +2,9 @@
   <h1>Hi, I'm Waseem Ahammed 👋</h1>
   <h3>Cloud Architect | Cloud Platform & DevEx Leader | CNCF Kubestronaut</h3>
   <p>
-    <a href="https://linkedin.com">
-      <img src="https://shields.io" alt="LinkedIn" />
-    </a>
-    <a href="mailto:waseemahammed96@gmail.com">
-      <img src="https://shields.io" alt="Email" />
-    </a>
+    <a href="https://linkedin.com"><strong>LinkedIn</strong></a> •
+    <a href="mailto:waseemahammed96@gmail.com"><strong>Email</strong></a> •
+    <a href="https://certdirectory.io/profile/waseem-ahammed"><strong>CertDirectory</strong></a>
   </p>
 </div>
 
@@ -24,14 +21,16 @@ I am a **Cloud Solution Architect and Platform Engineering Leader** with **10+ y
 
 ### 🏅 Verified Certifications
 
-<p align="center">
-  <a href="https://certdirectory.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io">
-      <img alt="Waseem Ahammed on CertDirectory" src="https://certdirectory.io">
-    </picture>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://certdirectory.io/profile/waseem-ahammed?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/waseem-ahammed.svg?style=card&theme=dark">
+    <img alt="Waseem Ahammed on CertDirectory" src="https://certdirectory.io/badge/waseem-ahammed.svg?style=card">
+  </picture>
+</a>
+
+</div>
 
 ---
 
